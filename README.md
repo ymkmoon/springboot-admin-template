@@ -1,0 +1,2 @@
+# admin
+SpringBoot Admin Server
