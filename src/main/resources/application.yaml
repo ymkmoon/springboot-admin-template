@@ -1,0 +1,10 @@
+spring:
+  security:
+    user:
+      name: ymkmoon # 어드민 에서 사용 할 username 
+      password: 1234 # 어드민 에서 사용 할 pw
+
+server:
+  port: 7000
+  servlet:
+    context-path: /toy-admin
